@@ -1,6 +1,6 @@
 # gigi_bank_app
 
-New home banking system.
+Home banking system app logic designed with Flutter.
 
 ## Getting Started
 
